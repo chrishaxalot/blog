@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: Christians Coding Block
 ---
-
-In this blog i will write about my coding adventures
